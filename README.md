@@ -36,7 +36,7 @@ Pilot neon-lit drones across a futuristic 2D arena. Collect tokens, dodge obstac
 
 Due to GitHub file size limits, the full game with executable and assets is available here:
 
-👉 [Download Drone2D Full Build (Google Drive)]([https://drive.google.com/yourlinkhere](https://drive.google.com/drive/folders/1YCX5mppY4lsb7Kucx2x3nKPfaVERhWHV?usp=drive_link))
+👉 [Download Drone2D Full Build (Google Drive)]([https://drive.google.com/drive/folders/1YCX5mppY4lsb7Kucx2x3nKPfaVERhWHV?usp=drive_link])
 
 Includes:
 - Windows `.exe` version
