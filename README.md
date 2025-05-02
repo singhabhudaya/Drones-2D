@@ -5,6 +5,9 @@ A fast-paced 2-player **co-op and versus arena game** made in Python using Pygam
 Pilot neon-lit drones across a futuristic 2D arena. Collect tokens, dodge obstacles, and **outfly your opponent or team up to score high!**
 
 ---
+## 🎮 Gameplay Preview
+
+![screenshot](screenshots/gameplay.png)
 
 ## 🎮 Features
 
