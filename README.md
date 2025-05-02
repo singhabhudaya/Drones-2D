@@ -7,7 +7,7 @@ Pilot neon-lit drones across a futuristic 2D arena. Collect tokens, dodge obstac
 ---
 ## 🎮 Gameplay Preview
 
-![screenshot](screenshots/gameplay.png)
+![screenshot](gameplay.png)
 
 ## 🎮 Features
 
